@@ -1,1 +1,3 @@
 # balls-collision
+This web display a small power of HTML canvas element, through which we can create object according to us and built really amazing things 
+and this also required some noticable maths formula and physiscs , we can google that or ask from AI right......
